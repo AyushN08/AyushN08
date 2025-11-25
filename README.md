@@ -7,11 +7,10 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 Building: **Workflow-Pro** – an AI-first enterprise workflow automation platform  
+## 🚀 About Me   
 - 💼 SWE Intern @ **ICICI Prudential Life Insurance** | Red Team Intern @ **Deepcytes**  
-- 🤖 Interests: Intelligent agents, automation, browser security, ML-driven tooling  
-- 🌱 Learning: Spring Boot, Cloud, Next.js, System Design, CP  
+- 🤖 Interests: Full Stack Development, Cyber-Security, Automation 
+- 🌱 Learning: Cloud, Next.js, System Design, CP  
 - 🔐 Passionate about secure, scalable, automation-focused engineering
 
 ---
@@ -21,8 +20,6 @@
 ### **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
 </p>
@@ -39,7 +36,6 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
 </p>
 
@@ -56,46 +52,39 @@
 ## 🌟 Featured Projects
 
 ### ⭐ **Workflow-Pro – Workflow Automation SaaS**
-Enterprise workflow automation with teams, Kanban, Google Calendar & real-time updates.  
-**Tech:** React, Firebase, Node.js, Tailwind, Firestore  
+ • Developed a collaborative platform to streamline team and project management. Features include user
+ authentication, Kanban-style task tracking, team-based project assignment, and project updation.
+ • Integrated email-based team invitations, Google Calendar for smart scheduling, and GitHub integration to
+ sync repositories and track commits within projects.
+**Tech:** React.js, Tailwind CSS, Node.js, Express.js, Firebase Auth and Firestore, Google Calendar API,
+ GitHub API  
 
 ---
 
 ### ⭐ **Quizzify – AI Google Forms Test Generator**
-AI-powered assessment generator using Gemini API.  
-**Tech:** Next.js, Python, AI APIs  
+• Built a web application for teachers to auto-generate quizzes from PDF notes using AI. Supports multiple
+ question types (MCQs, MSQs, subjective, NAT), test scheduling, multi-user access, quiz submissions, and
+ AI-based grading.
+ • Automatically creates Google Forms for tests without manual input, streamlining the assessment process. 
+**Tech:**  React.js, Tailwind CSS, Node.js, Express.js, Firebase Auth and Firestore, Google Gemini API,
+ Google Sheets API, Google Forms API. 
 
 ---
 
 ### ⭐ **Immunilink – Vaccine Management System**
-A secure medical record automation platform.  
-**Tech:** Java, Spring Boot, MySQL  
+• Developed a role-based web application to streamline vaccination tracking for users, doctors, and
+ administrators.
+ • Enabled secure record management, appointment scheduling, and real-time updates to improve healthcare
+ coordination.
+**Tech:** React.js, HTML, CSS, Node.js, Express.js, MongoDB (Mongoose)  
 
----
-
-## 📊 GitHub Stats  
-> (Now using GitHub’s official stats provider — stable and reliable)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushN08&show_icons=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushN08&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake  
-> (Will appear after workflow is added)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushN08/AyushN08/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p>
-  <a href="https://linkedin.com/in/ayush-n08">
+  <a href="https://www.linkedin.com/in/ayush-nayak-a84950258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/AyushN08">
